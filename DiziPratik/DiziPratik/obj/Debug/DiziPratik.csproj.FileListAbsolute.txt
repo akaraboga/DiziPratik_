@@ -1,0 +1,7 @@
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\DiziPratik\DiziPratik\bin\Debug\DiziPratik.exe.config
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\DiziPratik\DiziPratik\bin\Debug\DiziPratik.exe
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\DiziPratik\DiziPratik\bin\Debug\DiziPratik.pdb
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\DiziPratik\DiziPratik\obj\Debug\DiziPratik.csproj.AssemblyReference.cache
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\DiziPratik\DiziPratik\obj\Debug\DiziPratik.csproj.CoreCompileInputs.cache
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\DiziPratik\DiziPratik\obj\Debug\DiziPratik.exe
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\DiziPratik\DiziPratik\obj\Debug\DiziPratik.pdb
